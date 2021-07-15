@@ -2,7 +2,7 @@
  
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
-<img src="https://raw.githubusercontent.com/CatToCat/CatToCat/main/Gascogne.png"  height="200" width="200" align="right">
+<img src="https://cdn.jsdelivr.net/gh//CatToCat/CatToCat@1.0.0/Gascogne.png"  height="200" width="200" align="right">
  
 
   ![:CatToCat](https://count.getloli.com/get/@:CatToCat)
